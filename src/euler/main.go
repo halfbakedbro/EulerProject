@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(probs.Prob10())
+	fmt.Println(probs.Prob11())
 }
